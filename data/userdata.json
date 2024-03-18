@@ -1,0 +1,22 @@
+{
+    "firstname" : "Petter",
+    "lastname" : "Parker",
+    "date" : "10",
+    "month" : "March",
+    "year" : "1973",
+    "mail" : "petterparker@gmail.com",
+    "companyName" : "Marvel",
+    "password" : "Spiderman@2021",
+    "navbar" : [
+        "Computers ",
+        "Electronics ",
+        "Apparel ",
+        "Digital downloads ",
+        "Books ",
+        "Jewelry ",
+        "Gift Cards "
+    ],
+    "country" : "India",
+    "pincode" : "533456"
+
+}
